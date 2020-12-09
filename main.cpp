@@ -35,6 +35,7 @@ auto create_series()
   return v;
 }
 
+
 int main()
 {
   assert(!"Do not profile in debug mode");
